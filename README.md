@@ -1,1 +1,2 @@
+- 信息查询功能还未优化
 - 需要定期更换 world_sql_content.sqlite 文件
