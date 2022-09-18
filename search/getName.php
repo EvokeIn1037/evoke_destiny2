@@ -182,7 +182,7 @@
         </table>";
         echo $table;
         
-        $url = "http://destiny.evoke1037.top/db/getName.php";
+        $url = "YOUR WEB/db/getName.php";
         $param = array(
             'mno' => $mno,
             'cno' => $cno,
