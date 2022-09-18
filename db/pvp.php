@@ -89,7 +89,7 @@
     }
     
     $myapi = array(
-        'X-API-Key:'.'eb63c115d7a3496c9a603e166cb641da',
+        'X-API-Key:'.'YOUR BUNGIE API',
     );
     $purl = "https://www.bungie.net/Platform/Destiny2/3/Account/".$infonum."/Character/".$cnum."/Stats/Activities/";
     $cparam = array(
