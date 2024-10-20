@@ -182,7 +182,7 @@
         </table>";
         echo $table;
         
-        $url = "YOUR WEB/db/getName.php";
+        $url = "http://destiny.evoke1037.top/db/getName.php";
         $param = array(
             'mno' => $mno,
             'cno' => $cno,
@@ -234,7 +234,7 @@
         }
         
         $myapi = array(
-            'X-API-Key:'.'YOUR BUNGIE API',
+            'X-API-Key:'.'eb63c115d7a3496c9a603e166cb641da',
         );
         $purl = "https://www.bungie.net/Platform/Destiny2/SearchDestinyPlayer/-1/".$hint."/";
         
