@@ -12,7 +12,6 @@ function showInfo(num)
     {
         str=$("#nick2").val();
     }
-    console.log(str);
     if (str === "")
     { 
         $("#loading").empty();
