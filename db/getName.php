@@ -74,7 +74,7 @@
     }
     
     $myapi = array(
-            'X-API-Key:'.'YOUR BUNGIE API',
+            'X-API-Key:'.'eb63c115d7a3496c9a603e166cb641da',
         );
     $curl = "https://www.bungie.net/Platform/Destiny2/3/Profile/".$mno."/Character/".$cno."/";
     $cparam = array(
